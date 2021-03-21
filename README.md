@@ -10,23 +10,43 @@ Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como Dev
 - Java POO
 - ESR - Especialista Sprint Rest
 
-## Pŕincipais Skills
-####(de 1 a 10 nivel de produnfidade)
-- [x] Java 8+ (8)
-- [x] Spring Framework (8)
-- [X] JPA / Hibernate (7)
-- [x] AWS / Oracle Cloud (8)
-- [ ] Golang (7)
-- [ ] Jasper Reports
-- [ ] Restful / MVC
-- [ ] Oauth2
-- [ ] Terraform
-- [ ] Docker / Docker-Compose
-- [ ] K8S (Kubernetes) + Rancher
-- [ ] Helm
-- [ ] Linux / MAC
-- [ ] Tomcat / Wildfly
-- [ ] Jmeter 
-- [ ] Redis
-- [ ] Firebase | Firestore | Realtime | Authentication
-- [ ] Github / Gitlab / Bitbucket
+## Pŕincipais Skills (Dev/OPS)
+- [X] Java 8+
+- [X] Spring Framework
+- [X] JPA / Hibernate 
+- [X] Maven
+- [X] AWS / Oracle Cloud 
+- [X] Golang
+- [X] Jasper Reports
+- [X] Restful / MVC
+- [X] Oauth2 / Spring Security
+- [X] Terraform
+- [X] Docker / Docker-Compose
+- [X] K8S (Kubernetes) + Rancher
+- [X] Helm
+- [X] Linux / MAC
+- [X] Tomcat / Wildfly
+- [X] Jmeter 
+- [X] Redis
+- [X] Firebase | Firestore | Realtime | Authentication
+- [X] Github / Gitlab / Bitbucket
+- [X] MYSQL / ORACLE
+- [X] Prometheus / Grafana / AlertManager
+
+### Projetos que participei
+
+- [X] Lity App de restaurantes
+- [X] BIA (sistema de inteligencia mobile)
+- [X] Place (Plataforma do cliente e facilidades)
+- [x] Nucleo Metropolitano (Plataforma de gerenciamento e automatização)
+- [X] Cloud (Atualmente) Serviço Saas que entrega ambiente totalmente gerencido, seguro e automaticado
+
+
+### Interesses
+- [X] Arquitetura Cloud 
+- [X] Publicação de Serviço / Service Discovery / Service Resigtry
+- [X] Microserviços
+- [X] Spring Projects (Data/Cloud/Security/Boot)
+- [X] Golang
+- [X] Java | JVM
+- [X] Full cycle Develop (Desenvolvedor completo da criação ao deployment)
