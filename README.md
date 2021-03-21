@@ -10,7 +10,7 @@ Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como Dev
 - Java POO
 - ESR - Especialista Sprint Rest
 
-## Principais Skills (Dev/OPS)
+## Skills (Dev/OPS)
 - [X] Java 8+
 - [X] Spring Framework
 - [X] JPA / Hibernate 
@@ -32,6 +32,7 @@ Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como Dev
 - [X] Github / Gitlab / Bitbucket
 - [X] MYSQL / ORACLE
 - [X] Prometheus / Grafana / AlertManager
+- [X] Angular 2+ | Saas | PrimeNG | TypeScript
 
 ### Projetos que participei
 
