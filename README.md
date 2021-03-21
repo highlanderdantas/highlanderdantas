@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Highlander Dantas!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou Highlander Dantas!
 
 Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como DevOps por um bom tempo, adoro fazer coisas que parecem impossiveis, tenho 25 anos, começei a Faculdade as 20 anos, pois servi o Execito Brasileiro por 2 anos, depois entrei nesse mundo de constante crescimento e desafios.
 
@@ -40,7 +40,7 @@ Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como Dev
 - [X] BIA (sistema de inteligencia mobile)
 - [X] Place (Plataforma do cliente e facilidades)
 - [x] Nucleo Metropolitano (Plataforma de gerenciamento e automatização)
-- [X] Cloud (Atualmente) Serviço Saas que entrega ambiente totalmente gerencido, seguro e automaticado
+- [X] Cloud (Atualmente) Serviço Saas que entrega ambiente totalmente gerencido, seguro e automatizado
 
 
 ### Interesses
