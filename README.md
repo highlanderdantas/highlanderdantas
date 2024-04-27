@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou Highlander Dantas!
 
-Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como DevOps por um bom tempo, adoro fazer coisas que parecem impossiveis, tenho 25 anos, começei a Faculdade as 20 anos, pois servi o Execito Brasileiro por 2 anos, depois entrei nesse mundo de constante crescimento e desafios.
+Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como DevOps por um bom tempo, adoro fazer coisas que parecem impossiveis, tenho 28 anos, começei a Faculdade as 20 anos, pois servi o Execito Brasileiro por 2 anos, depois entrei nesse mundo de constante crescimento e desafios.
 
 <div align="center">
   <a href="https://github.com/highlanderdantas">
@@ -14,13 +14,15 @@ Sou um Software Engineer, trabalho na Sankhya Atualmente, já trabalhei como Dev
 ## Cursos/ Certificações
 - MongoDB
 - Java POO
-- ESR - Especialista Sprint Rest
+- ESR - Especialista Sprint Rest (Course)
+- Oracle Cloud
+- Full Cycle (Course)
 
 ## Skills (Dev/OPS)
 - [X] Java 8+
 - [X] Spring Framework
 - [X] JPA / Hibernate 
-- [X] Maven
+- [X] Maven / Gradle
 - [X] AWS / Oracle Cloud 
 - [X] Golang
 - [X] Jasper Reports
